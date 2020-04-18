@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Dice-Game/static/css/main.86233756.chunk.css",
+    "main.js": "/Dice-Game/static/js/main.4ab9aee0.chunk.js",
+    "main.js.map": "/Dice-Game/static/js/main.4ab9aee0.chunk.js.map",
+    "runtime-main.js": "/Dice-Game/static/js/runtime-main.a461b3d7.js",
+    "runtime-main.js.map": "/Dice-Game/static/js/runtime-main.a461b3d7.js.map",
+    "static/js/2.ec4b8a3f.chunk.js": "/Dice-Game/static/js/2.ec4b8a3f.chunk.js",
+    "static/js/2.ec4b8a3f.chunk.js.map": "/Dice-Game/static/js/2.ec4b8a3f.chunk.js.map",
+    "index.html": "/Dice-Game/index.html",
+    "precache-manifest.784a462b1d5cf37fb5b60a99a235adba.js": "/Dice-Game/precache-manifest.784a462b1d5cf37fb5b60a99a235adba.js",
+    "service-worker.js": "/Dice-Game/service-worker.js",
+    "static/css/main.86233756.chunk.css.map": "/Dice-Game/static/css/main.86233756.chunk.css.map",
+    "static/js/2.ec4b8a3f.chunk.js.LICENSE.txt": "/Dice-Game/static/js/2.ec4b8a3f.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a461b3d7.js",
+    "static/js/2.ec4b8a3f.chunk.js",
+    "static/css/main.86233756.chunk.css",
+    "static/js/main.4ab9aee0.chunk.js"
+  ]
+}
